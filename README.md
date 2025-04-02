@@ -26,9 +26,7 @@ qa-automation-suite/ ├── cypress/ │ ├── e2e/ │ │ └── log
 ### Install dependencies:
 npm install
 Run tests in headless mode:
-bash
-Copiar
-Editar
+
 npx cypress run
 Open Cypress GUI:
 
