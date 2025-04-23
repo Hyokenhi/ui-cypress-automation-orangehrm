@@ -65,7 +65,7 @@ This is not a problem with the test itself, but with the unstable demo environme
 🚀 Passionate about automation and continuous learning, seeking a career in QA Automation.  
 💡 Committed to improving software quality through disciplined, efficient, and effective testing practices.
 
-📬 Contact: [LinkedIn](https://www.linkedin.com/in/Hyokenhi/) | GitHub: [@Crisweisk](https://github.com/Hyokenhi)
+📬 Contact: [LinkedIn](https://www.linkedin.com/in/Hyokenhi/) | GitHub: [@Hyokenhi](https://github.com/Hyokenhi)
 
 ---
 
